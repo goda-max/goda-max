@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @goda-max
+- 👋 Hi, I’m @worm
 - 👀 I’m interested in being a full stack developer
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on ...
